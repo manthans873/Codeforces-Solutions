@@ -21,8 +21,7 @@ typedef long long ll;
 const ll IMAX = 1000000000000000000;
 const ll IMIN = -100000000000000000;
 
-
-
+// Prob link: https://codeforces.com/contest/1490/problem/E
 int main(){
 #ifndef ONLINE_JUDGE
     freopen("input.txt", "r", stdin);
